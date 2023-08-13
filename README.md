@@ -5,7 +5,7 @@
 <h3 align="center">Passionate explorer of Machine Learning</h3>
 <p>&nbsp;</p>
 <p style="margin-bottom: 20px;">
-  <img align="right" alt="inc" width="500" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1614322146_pexels-kevin-ku-577585_story.jpg">
+  <img align="right" alt="inc" width="300" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1614322146_pexels-kevin-ku-577585_story.jpg">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash2903&label=Profile%20views&color=0e75b6&style=flat" alt="prakash2903" /> </p>
 
