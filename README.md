@@ -42,12 +42,15 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&" alt="prakash2903" /></p>
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash2903&show_icons=true&locale=en&layout=compact" alt="prakash2903" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&locale=en" alt="prakash2903" /></p>
+
+
+<p><img align="left" width = 400 src="https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&" alt="prakash2903" /></p>
+
+<p>&nbsp;<img align="center" width = 400 src="https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&locale=en" alt="prakash2903" /></p>
 
 <p>&nbsp;</p>
 
-<h3 align="left">Contribution Streaks</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&" alt="prakash2903" /></p>
+<p><img align="center" width = 300  src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash2903&show_icons=true&locale=en&layout=compact" alt="prakash2903" /></p>
+
 
