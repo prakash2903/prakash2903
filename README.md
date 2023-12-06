@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://media.tenor.com/JAtSfbZogywAAAAC/inception.gif" alt="MasterHead" height="250", width="800">
+  <img src="https://i.gifer.com/7fWl.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Prakash 😃</h1>
 <h3 align="center"> Explorer of Machine Learning </h3>
-
 
 
 <p style="margin-bottom: 20px;">
