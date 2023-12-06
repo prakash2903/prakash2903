@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://i.gifer.com/7fWl.gif" alt="MasterHead">
+  <img src="header.gif" alt="MasterHead" height = "300", width = "850">
 </p>
+
+<!--
 <h1 align="center">Hi 👋, I'm Prakash 😃</h1>
 <h3 align="center"> Explorer of Machine Learning </h3>
+-->
 
+---
 
 <p style="margin-bottom: 20px;">
   <img align="right" alt="inc" width="400" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1614322146_pexels-kevin-ku-577585_story.jpg">
@@ -52,7 +56,9 @@
 <p><img align="center" width = 300  src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash2903&show_icons=true&locale=en&layout=compact" alt="prakash2903" /></p>
 
 -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash2903&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+---
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash2903&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true)
