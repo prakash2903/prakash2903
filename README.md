@@ -18,7 +18,9 @@
 
 - 🤝 Open to collaboration on **Open Source Projects**
   
-- 🌱 I’m currently learning **PyTorch, TensorFlow**
+- 🌱 I’m currently learning **PyTorch**
+
+- 😃 Interested in Data Analytics and Visualization
 
 - 🚀 Passionate about innovative solutions and cutting-edge technologies.
 
