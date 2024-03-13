@@ -59,7 +59,6 @@
 
 -->
 ---
-<p><img src = "https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&theme=react&hide_border=true" width=600 height=300 /></p>
 <table style="border-collapse: collapse;">
    <tr>
     <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=100%"></td></p>
@@ -72,3 +71,6 @@
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true) -->
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=75% height=auto alt="1"/></p>
+
+<p><img src = "https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&theme=react&hide_border=true" width=600 height=300 /></p>
+
