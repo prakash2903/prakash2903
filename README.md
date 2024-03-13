@@ -8,13 +8,13 @@
 -->
 
 ---
-
+# About me
 <p style="margin-bottom: 20px;">
   <img align="right" alt="inc" width="400" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1614322146_pexels-kevin-ku-577585_story.jpg">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash2903&label=Profile%20views&color=0e75b6&style=flat" alt="prakash2903" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tweet2_prakash" target="blank"><img src="https://img.shields.io/twitter/follow/tweet2_prakash?logo=twitter&style=for-the-badge" alt="tweet2_prakash" /></a> </p>
+
 
 - 🤝 Open to collaboration on **Open Source Projects**
   
@@ -27,13 +27,6 @@
 - 📫 Reach me **21pt17@psgtech.ac.in**
 
 - ⚡ Captured by the phrase **"Ad astra per aspera"**
-
-## Connect with me
-<p align="left">
-  <a href="https://twitter.com/tweet2_prakash" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="tweet2_prakash" height="50" width="50" /></a>
-  <a href="https://linkedin.com/in/padhmaprakash" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="padhmaprakash" height="50" width="50" /></a>
-  <a href="https://instagram.com/pra_kash.29" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="pra_kash.29" height="50" width="50" /></a>
-</p>
 
 ## Languages and Tools
 <p align="center">
@@ -76,6 +69,11 @@
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true) -->
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=75% height=auto alt="1"/></p>
+<p><img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="mathanamathav" display=block width=75% height=auto /></p>
 
-<p><img src = "https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&theme=react&hide_border=true" width=600 height=300 /></p>
-
+## Let's Connect!
+<p align="left">
+  <a href="https://twitter.com/tweet2_prakash" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="tweet2_prakash" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/padhmaprakash" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="padhmaprakash" height="50" width="50" /></a>
+  <a href="https://instagram.com/pra_kash.29" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="pra_kash.29" height="50" width="50" /></a>
+</p>
