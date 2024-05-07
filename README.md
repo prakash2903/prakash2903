@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="header.gif" alt="MasterHead" height = "300", width = "850">
 </p>
+-->
 
 <!--
 <h1 align="center">Hi 👋, I'm Prakash 😃</h1>
