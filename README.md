@@ -8,9 +8,9 @@
 <h1 align="center">Hi 👋, I'm Prakash 😃</h1>
 <h3 align="center"> Explorer of Machine Learning </h3>
 -->
-
+<!--
 ---
-# About me
+# About me -->
 <p style="margin-bottom: 20px;">
   <img align="right" alt="inc" width="400" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1614322146_pexels-kevin-ku-577585_story.jpg">
 </p>
