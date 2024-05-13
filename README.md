@@ -28,11 +28,11 @@
 
 
 
-- 🤝 Open to collaboration on **Open Source Projects**
+- 💼 Currently working as **SWE Intern at ZeroDown (FlyHomes)**
   
-- 🌱 I’m currently learning **PyTorch**
+- 🏫 4th year MSc Theoretical Computer Science student at PSGCT
 
-- 😃 Interested in Data Analytics and Visualization
+- 🤝 Open to Collaboration on Open Source Projects
 
 - 🚀 Passionate about innovative solutions and cutting-edge technologies.
 
@@ -43,7 +43,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,java,flask,tensorflow,bootstrap,html,css,js,mongodb,vscode,linux,docker,git,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,java,flask,tensorflow,bootstrap,mongodb,vscode,linux,docker,git,anaconda" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true) -->
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=75% height=auto alt="1"/></p>
-<p><img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="mathanamathav" display=block width=75% height=auto /></p>
+<p><img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=75% height=auto /></p>
 
 ## Let's Connect!
 <p align="left">
