@@ -15,9 +15,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=34E2F7&background=00033400&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi%2C+This+is+Prakash+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=4000&color=34E2F7&background=00033400&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+This+is+Prakash+" alt="Typing SVG">
   </a>
 </p>
+
 
 
 <p style="margin-bottom: 20px;">
