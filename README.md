@@ -28,9 +28,9 @@
 
 
 
-- 💼 Currently working as **SWE Intern at ZeroDown (FlyHomes)**
+- 💼 Working as **SWE Intern at ZeroDown (FlyHomes)**
   
-- 🏫 4th year MSc Theoretical Computer Science student at PSGCT
+- 🏫 Theoretical Computer Science student at PSGCT
 
 - 🤝 Open to Collaboration on Open Source Projects
 
