@@ -9,8 +9,12 @@
 <h3 align="center"> Explorer of Machine Learning </h3>
 -->
 <!--
+
 ---
 # About me -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=34E2F7&background=00033400&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi%2C+This+is+Prakash+)](https://git.io/typing-svg)
+
 <p style="margin-bottom: 20px;">
   <img align="right" alt="inc" width="400" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1614322146_pexels-kevin-ku-577585_story.jpg">
 </p>
