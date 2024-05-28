@@ -1,24 +1,9 @@
-<!--
-<p align="center">
-  <img src="header.gif" alt="MasterHead" height = "300", width = "850">
-</p>
--->
-
-<!--
-<h1 align="center">Hi 👋, I'm Prakash 😃</h1>
-<h3 align="center"> Explorer of Machine Learning </h3>
--->
-<!--
-
----
-# About me -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=4000&color=34E2F7&background=00033400&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+This+is+Prakash+" alt="Typing SVG">
   </a>
 </p>
-
 
 
 <p style="margin-bottom: 20px;">
@@ -47,26 +32,10 @@
   </a>
 </p>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash2903&show_icons=true&locale=en&layout=compact" alt="prakash2903" /></p> 
-<h3 align="left">Stats</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&locale=en" alt="prakash2903" /></p>
-<h3 align="right">Contribution Streaks</h3>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&" alt="prakash2903" /></p>
--->
+
+[![Prakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakash2903&&custom_title=Prakash's%20contribution%20graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!--
-
-<p><img align="left" width = 400 src="https://github-readme-streak-stats.herokuapp.com/?user=prakash2903&" alt="prakash2903" /></p>
-
-<p>&nbsp;<img align="center" width = 400 src="https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&locale=en" alt="prakash2903" /></p>
-
-<p>&nbsp;</p>
-
-<p><img align="center" width = 300  src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash2903&show_icons=true&locale=en&layout=compact" alt="prakash2903" /></p>
-
--->
 ---
 # GitHub Stats
 <table style="border-collapse: collapse;">
@@ -76,9 +45,6 @@
    </tr>
 </table>
 
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash2903&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/> 
-![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash2903&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true) -->
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=75% height=auto alt="1"/></p>
 <p><img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=75% height=auto /></p>
