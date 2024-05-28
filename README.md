@@ -38,7 +38,7 @@
 
 ---
 # GitHub Stats
-<table style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse;">
    <tr>
     <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=100%"></td></p>
     <td><p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=100%"></td></p>
@@ -46,8 +46,10 @@
 </table>
 
 
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=75% height=auto alt="1"/></p>
-<p><img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=75% height=auto /></p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=75% height=auto alt="1"/>
+<img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=75% height=auto />
+</p>
 
 ## Let's Connect!
 <p align="left">
