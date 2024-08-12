@@ -35,7 +35,7 @@
 -->
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=50% height=auto />
+<img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=60% height=auto />
 </p>
 
 <!--
