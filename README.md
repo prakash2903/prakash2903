@@ -25,35 +25,45 @@
 
 - ⚡ Captured by the phrase **"Ad astra per aspera"**
 
+<!--
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,java,flask,tensorflow,bootstrap,mongodb,vscode,linux,docker,git,anaconda" />
   </a>
 </p>
+-->
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=50% height=auto />
+</p>
+
+<!--
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=50% height=auto alt="1"/>
+</p>
+-->
 
 [![Prakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakash2903&&custom_title=Prakash's%20contribution%20graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
-# GitHub Stats
+<!--
 <table align="center" style="border-collapse: collapse;">
    <tr>
     <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=100%"></td></p>
     <td><p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=100%"></td></p>
    </tr>
 </table>
+-->
 
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=75% height=auto alt="1"/>
-<img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=75% height=auto />
-</p>
 
+<!--
 ## Let's Connect!
 <p align="left">
   <a href="https://twitter.com/tweet2_prakash" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="tweet2_prakash" height="50" width="50" /></a>
   <a href="https://linkedin.com/in/padhmaprakash" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="padhmaprakash" height="50" width="50" /></a>
   <a href="https://instagram.com/pra_kash.29" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="pra_kash.29" height="50" width="50" /></a>
 </p>
+-->
