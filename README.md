@@ -13,17 +13,13 @@
 
 
 
-- 💼 Working as **SWE Intern at ZeroDown (FlyHomes)**
+- 💼 **SWE Intern at Zerodown (Flyhomes)**
   
 - 🏫 Theoretical Computer Science student at PSGCT
 
 - 🤝 Open to Collaboration on Open Source Projects
 
-- 🚀 Passionate about innovative solutions and cutting-edge technologies.
-
 - 📫 Reach me **21pt17@psgtech.ac.in**
-
-- ⚡ Captured by the phrase **"Ad astra per aspera"**
 
 <!--
 ## Languages and Tools
