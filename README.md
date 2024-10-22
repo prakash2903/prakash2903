@@ -1,28 +1,50 @@
+<div align="center">
+  <img src="https://github.com/prakash2903/prakash2903/blob/main/header.png" alt="GitHub Banner" width="100%">
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=4000&color=34E2F7&background=00033400&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+This+is+Prakash+" alt="Typing SVG">
-  </a>
-</p>
+<div align="left">
+  <h1>
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face Emoji" width="50px"/> 
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=34E2F7&background=00033400&center=false&vCenter=true&random=false&width=435&lines= +Hi%21+I'm+Prakash+" alt="Typing SVG">
+    </a>
+    <img align="right" src="https://komarev.com/ghpvc/?username=prakash2903" alt="GitHub profile views counter">
+  </h1>
+</div>
 
 
-<p style="margin-bottom: 20px;">
-  <img align="right" alt="inc" width="400" height="250" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1614322146_pexels-kevin-ku-577585_story.jpg">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash2903&label=Profile%20views&color=0e75b6&style=flat" alt="prakash2903" /> </p>
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
 
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Ad Astra Per Aspera!!!</div> 
 
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>India 🇮🇳</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Student at PSGCT
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @ <a href="mailto:21pt17@psgtech.ac.in"><strong>21pt17@psgtech.ac.in</strong></a>
+  </li>
+  <!--
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>real-time data apps for international sports</strong>
+  </li>
+  -->
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
+  </li> 
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
+  </li>
+</ul>
 
-- 💼 **SWE Intern at Zerodown (Flyhomes)**
-  
-- 🏫 Theoretical Computer Science student at PSGCT
-
-- 🤝 Open to Collaboration on Open Source Projects
-
-- 📫 Reach me **21pt17@psgtech.ac.in**
 
 <!--
-## Languages and Tools
+# TECHNICAL SKILLS
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,java,flask,tensorflow,bootstrap,mongodb,vscode,linux,docker,git,anaconda" />
@@ -30,36 +52,25 @@
 </p>
 -->
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=prakash2903&theme=codeSTACKr&hide_border=true&border_radius=6" alt="kash" display=block width=60% height=auto />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=prakash2903&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
+        </a>
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakash2903&theme=blue_green" alt="GitHub Stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+![Prakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakash2903&bg_color=000000&color=f4fffd&line=14d2da&point=fff7f7&area=true&hide_border=true)
 
 <!--
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=50% height=auto alt="1"/>
-</p>
--->
-
-[![Prakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakash2903&&custom_title=Prakash's%20contribution%20graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
-<!--
-<table align="center" style="border-collapse: collapse;">
-   <tr>
-    <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=100%"></td></p>
-    <td><p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakash2903&theme=codeSTACKr&border_radius=6"  display=block width=100%"></td></p>
-   </tr>
-</table>
--->
-
-
-
-<!--
-## Let's Connect!
 <p align="left">
   <a href="https://twitter.com/tweet2_prakash" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="tweet2_prakash" height="50" width="50" /></a>
-  <a href="https://linkedin.com/in/padhmaprakash" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="padhmaprakash" height="50" width="50" /></a>
-  <a href="https://instagram.com/pra_kash.29" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="pra_kash.29" height="50" width="50" /></a>
 </p>
 -->
