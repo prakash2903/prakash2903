@@ -6,7 +6,7 @@
   <h1>
     <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face Emoji" width="50px"/> 
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=34E2F7&background=00033400&center=false&vCenter=true&random=false&width=435&lines= +Hi%21+I'm+Prakash+" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=34E2F7&background=00033400&center=false&vCenter=true&random=false&width=435&lines= +Hi%21+I'm+Prakash+" alt="Hi I'm Prakash">
     </a>
     <img align="right" src="https://komarev.com/ghpvc/?username=prakash2903" alt="GitHub profile views counter">
   </h1>
